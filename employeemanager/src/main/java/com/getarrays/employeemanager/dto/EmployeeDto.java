@@ -11,6 +11,8 @@ public class EmployeeDto {
     public String hello;
     public String filanfisteku;
 
+    public String namename;
+
     public EmployeeDto(String name, String email, String jobTitle, String phone, String imageUrl) {
         this.name = name;
         this.email = email;
