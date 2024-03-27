@@ -7,6 +7,7 @@ public class EmployeeDto {
     public String phone;
     public String imageUrl;
     public String blblbla;
+    public String updated;
 
     public EmployeeDto(String name, String email, String jobTitle, String phone, String imageUrl) {
         this.name = name;
